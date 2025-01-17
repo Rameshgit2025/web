@@ -298,7 +298,7 @@ button {
     width: 100%;
     float: left;
     font-size: 60px;
-    color: #fefefd;
+    color: #000000;
     font-weight: bold;
     padding-bottom: 0px;
     line-height: 70px;
@@ -308,7 +308,7 @@ button {
     width: 100%;
     float: left;
     font-size: 24px;
-    color: #111111;
+    color: #000000;
 }
 
 .social_icon {
